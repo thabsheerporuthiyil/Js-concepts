@@ -1,0 +1,3 @@
+Window is a global object in a global execution context.
+Even though the js file is empty there is a window object will be created.
+At the global level, this===window
